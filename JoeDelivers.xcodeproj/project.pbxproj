@@ -14,6 +14,7 @@
 		4DDC43C02B9FE308008695F1 /* JoeDeliversTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DDC43BF2B9FE308008695F1 /* JoeDeliversTests.swift */; };
 		4DDC43CA2B9FE308008695F1 /* JoeDeliversUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DDC43C92B9FE308008695F1 /* JoeDeliversUITests.swift */; };
 		4DDC43CC2B9FE308008695F1 /* JoeDeliversUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DDC43CB2B9FE308008695F1 /* JoeDeliversUITestsLaunchTests.swift */; };
+		4DDC43D92B9FE55D008695F1 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DDC43D82B9FE55D008695F1 /* LoginView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		4DDC43C52B9FE308008695F1 /* JoeDeliversUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JoeDeliversUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DDC43C92B9FE308008695F1 /* JoeDeliversUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JoeDeliversUITests.swift; sourceTree = "<group>"; };
 		4DDC43CB2B9FE308008695F1 /* JoeDeliversUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JoeDeliversUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4DDC43D82B9FE55D008695F1 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				4DDC43AE2B9FE305008695F1 /* JoeDeliversApp.swift */,
+				4DDC43D82B9FE55D008695F1 /* LoginView.swift */,
 				4DDC43B02B9FE305008695F1 /* ContentView.swift */,
 				4DDC43B22B9FE307008695F1 /* Assets.xcassets */,
 				4DDC43B42B9FE307008695F1 /* Preview Content */,
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4DDC43D92B9FE55D008695F1 /* LoginView.swift in Sources */,
 				4DDC43B12B9FE305008695F1 /* ContentView.swift in Sources */,
 				4DDC43AF2B9FE305008695F1 /* JoeDeliversApp.swift in Sources */,
 			);
